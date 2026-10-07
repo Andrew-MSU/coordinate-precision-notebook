@@ -37,8 +37,8 @@ The notebook was tested in an ArcGIS Notebook environment but should work in any
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/coordinate-precision-visualizer.git
-   cd coordinate-precision-visualizer
+   git clone https://github.com/Andrew-MSU/coordinate-precision-notebook.git
+   cd coordinate-precision-notebook
    ```
 
 2. Install dependencies (if using the QR code section):
@@ -75,7 +75,7 @@ The notebook was tested in an ArcGIS Notebook environment but should work in any
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details (add one if needed).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to contribute or report issues!
 
